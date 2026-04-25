@@ -43,7 +43,7 @@ const CW = {
   <div class="footer-grid">
 
     <div class="footer-brand">
-      <img src="assets/imgs/logo.png" alt="Coolwairr Logo" class="nav-logo">
+      <img src="assets/imgs/logo.png" alt="Coolwair Logo" class="nav-logo">
       <p>India's first active cooling system for motorcycle riders. Beat the heat. Ride safe.</p>
       <div class="footer-social">
 
@@ -127,7 +127,7 @@ const CW = {
   </div>
 
   <div class="footer-bottom">
-    <p>© 2025 Coolwairr. All rights reserved.</p>
+    <p>© 2025 Coolwair. All rights reserved.</p>
     <div class="footer-bottom-links">
       <a href="#">Terms &amp; Conditions</a>
       <a href="#">Privacy Policy</a>
